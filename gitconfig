@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = stephensebastiaanpostma@gmail.com
+	name = Stephen Postma
